@@ -18,7 +18,7 @@
         "@types/selenium-webdriver": "^4.0.9",
         "@types/toastr": "^2.1.37",
         "cordova": "^10.0.0",
-        "cordova-android": "^9.0.0",
+        "cordova-android": "^10.1.2",
         "cordova-plugin-copytodownload": "git+https://github.com/tonib/cordova-plugin-copytodownload.git",
         "cordova-plugin-document-contract": "git+https://github.com/danjarvis/cordova-plugin-document-contract.git",
         "cordova-plugin-exclude-files": "^1.0.1",

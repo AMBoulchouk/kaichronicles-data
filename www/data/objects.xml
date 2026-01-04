@@ -38,7 +38,7 @@
         <weapon id="shortsword">
             <name lang="en">Short Sword</name>
             <name lang="es">Espada corta</name>
-            <image book="1|9" name="ssword.png" />
+            <image book="1|9" name="bsword.png" />
         </weapon>
 
         <weapon id="quarterstaff">
