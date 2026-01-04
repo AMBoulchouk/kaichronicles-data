@@ -1,6 +1,6 @@
 # The project AON data
-www/data/projectAon
-src/patches/projectAonPatches
+#www/data/projectAon
+#src/patches/projectAonPatches
 
 # Typescript generated code
 www/js
