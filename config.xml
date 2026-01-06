@@ -25,7 +25,7 @@
     <plugin name="cordova-plugin-zip" />
     <!-- https://github.com/FortuneN/cordova-plugin-zeep -->
     <plugin name="cordova-plugin-zeep" />
-    <plugin name="com.megster.cordova.FileChooser" spec="https://github.com/ihadeed/cordova-filechooser.git" />
+    <plugin name="cordova-plugin-filechooser" spec="^1.2.0" />
     <plugin name="cordova-plugin-document-contract" spec="https://github.com/danjarvis/cordova-plugin-document-contract.git" />
     <plugin name="cordova-plugin-copytodownload" spec="https://github.com/tonib/cordova-plugin-copytodownload.git" />
     <plugin name="cordova-plugin-exclude-files" />
